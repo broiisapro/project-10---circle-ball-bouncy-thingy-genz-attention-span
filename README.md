@@ -1,0 +1,1 @@
+This project is a simple 2D physics simulation of colliding balls. Balls move within a defined window, bounce off walls, and collide with each other. Each collision increases the speed of the balls, creating dynamic and engaging movement patterns.
